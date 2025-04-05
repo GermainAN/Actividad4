@@ -1,4 +1,3 @@
 def greet():
-    print('Hello from advanced feature')
+    print('Fixed but in feature')
 
-greet()
